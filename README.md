@@ -80,7 +80,7 @@ QuickRide is a feature-rich project built using modern web and mobile technologi
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/NishantAwasthi87/QuickRide.git
+git clone https://github.com/NishantAwasthi87/QuickRide-App.git
 cd quickride
 ```
 
